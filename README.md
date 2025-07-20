@@ -42,8 +42,11 @@ I'm particularly interested in collaborating on projects involving code generati
 
 ## 📊 GitHub Stats:
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAyush2710&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api?username=CodeWithAyush2710&show_icons=true&theme=radical&count_private=true" alt="Ayush's GitHub Stats" />
+  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithAyush2710&theme=radical" alt="Ayush's GitHub Streak" />
+  
 </p>
 
 Connect with Me
