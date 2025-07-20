@@ -41,7 +41,7 @@ I'm particularly interested in collaborating on projects involving code generati
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAyush2710&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAyush2710&theme=nightowl&hide_border=true" width="50%"/>
 
 
 | 🔥 Streak | 📊 Stats |
@@ -54,9 +54,8 @@ I'm particularly interested in collaborating on projects involving code generati
 
 Let's connect and build something amazing!
 
-[<a target="_blank" href = "https://www.linkedin.com/in/ayush-srivastava-114b58215/"><img align="left" target="_blank" alt="Profile | LinkedIn" width="22px" src="https://www.svgrepo.com/show/70809/linkedin.svg" /> </a>]
+[<img align="left" target="_blank" alt="Profile | LinkedIn" width="22px" src="https://www.svgrepo.com/show/70809/linkedin.svg" onclick='_blank' /> ](https://www.linkedin.com/in/ayush-srivastava-114b58215/)
 [<img align="left" alt="Profile | Instagram" width="22px" src="https://www.svgrepo.com/show/111199/instagram.svg" />](https://www.instagram.com/i_am_ayush2710/)
 [<img align="left" alt="Profile | Gmail" width="22px" src="https://www.svgrepo.com/show/349378/gmail.svg" />](sriayush2710@gmail.com)
 [<img align="left" alt="Profile | X" width="22px" src="https://img.icons8.com/ios/50/twitterx--v1.png" />](https://x.com/iamayush2710)
 [<img align="left" alt="Profile | Leetcode" width="22px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />](https://leetcode.com/u/ayush_sri_india/)
-
