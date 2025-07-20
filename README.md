@@ -18,7 +18,7 @@ Generative AI: LLM integration, prompt engineering, AI-powered applications.
 Looking to Collaborate
 I'm particularly interested in collaborating on projects involving code generation responses with Gemini or other exciting GenAI applications. If you have an idea or a project where my skills can be valuable, feel free to reach out!
 
-## 🛠️ Tech Stack:
+## 🛠️ Tech Stack and Tools:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -40,26 +40,23 @@ I'm particularly interested in collaborating on projects involving code generati
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 
-## 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAyush2710&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=CodeWithAyush2710&show_icons=true&theme=radical&count_private=true" alt="Ayush's GitHub Stats" />
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithAyush2710&theme=radical" alt="Ayush's GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAyush2710&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+
+
+| 🔥 Streak | 📊 Stats |
+| --- | --- |
+| <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeWithAyush2710&theme=nightowl&hide_border=true" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=CodeWithAyush2710&count_private=trueshow_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&rank_icon=github&show_icons=true" width="100%"> |
   
 </p>
 
-Connect with Me
+**Connect with Me**
+
 Let's connect and build something amazing!
 
-**LinkedIn:** [Ayush Srivastava](https://www.linkedin.com/in/ayush-srivastava-114b58215)
+[<img align="left" alt="Profile | LinkedIn" width="22px" src="https://www.svgrepo.com/show/70809/linkedin.svg" />](https://www.linkedin.com/in/ayush-srivastava-114b58215/)
+[<img align="left" alt="Profile | Instagram" width="22px" src="https://www.svgrepo.com/show/111199/instagram.svg" />](https://www.instagram.com/i_am_ayush2710/)
+[<img align="left" alt="Profile | GMail" width="22px" src="https://www.svgrepo.com/show/349378/gmail.svg" />](sriayush2710@gmail.com)
+[<img align="left" alt="Profile | X" width="22px" src="https://img.icons8.com/ios/50/twitterx--v1.png" />](https://x.com/iamayush2710)
+[<img align="left" alt="Profile | X" width="22px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />](https://leetcode.com/u/ayush_sri_india/)
 
-**Email:** sriayush2710@gmail.com
-
-**X (Twitter):** [@iamayush2710](https://x.com/iamayush2710)
-
-**Instagram**: [i_am_ayush2710](https://www.instagram.com/i_am_ayush2710/)
-
-**LeetCode**: [ayush_sri_india](https://leetcode.com/u/ayush_sri_india/)
-
-⭐️ From [**CodeWithAyush2710**](https://github.com/CodeWithAyush2710/)
