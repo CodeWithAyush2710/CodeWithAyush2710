@@ -1,7 +1,6 @@
-### Hi there! 👋 I'm Ayush Srivastava
+### ***Hi there! 👋 I'm Ayush Srivastava***
 
-## About Me
-
+## 🙋‍♂️ About Me
 
 I'm a passionate Web Developer with a keen interest in Generative AI. I'm currently diving deep into Frontend Development and exploring the exciting world of Large Language Model (LLM) integration. My goal is to build innovative and impactful web solutions.
 
@@ -19,7 +18,18 @@ Generative AI: LLM integration, prompt engineering, AI-powered applications.
 Looking to Collaborate
 I'm particularly interested in collaborating on projects involving code generation responses with Gemini or other exciting GenAI applications. If you have an idea or a project where my skills can be valuable, feel free to reach out!
 
-My GitHub Stats
+## 🛠️ Tech Stack:
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+## 📊 GitHub Stats:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CodeWithAyush2710&show_icons=true&theme=radical&count_private=true" alt="Ayush's GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithAyush2710&theme=radical" alt="Ayush's GitHub Streak" />
