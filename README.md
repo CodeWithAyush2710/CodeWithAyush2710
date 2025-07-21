@@ -41,12 +41,13 @@ I'm particularly interested in collaborating on projects involving code generati
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAyush2710&theme=nightowl&hide_border=true" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAyush2710&theme=nightowl&hide_border=true" width="50%"/>
+  
 
 
 | 🔥 Streak | 📊 Stats |
 | --- | --- |
-| <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeWithAyush2710&theme=nightowl&hide_border=true" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=CodeWithAyush2710&count_private=trueshow_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&rank_icon=github&show_icons=true" width="100%"> |
+|<img src="https://github-readme-streak-stats.herokuapp.com?user=CodeWithAyush2710&theme=nightowl&hide_border=true" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=CodeWithAyush2710&count_private=trueshow_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&rank_icon=github&show_icons=true" width="100%"> |
   
 </p>
 
