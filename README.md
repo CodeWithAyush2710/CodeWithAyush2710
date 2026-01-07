@@ -40,7 +40,7 @@ I'm particularly interested in collaborating on projects involving code generati
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAyush2710&theme=nightowl&hide_border=true" width="50%"/>
   
 
@@ -49,6 +49,11 @@ I'm particularly interested in collaborating on projects involving code generati
 | --- | --- |
 |<img src="https://github-readme-streak-stats.herokuapp.com?user=CodeWithAyush2710&theme=nightowl&hide_border=true" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=CodeWithAyush2710&count_private=trueshow_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&rank_icon=github&show_icons=true" width="100%"> |
   
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=CodeWithAyush2710&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
+  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=CodeWithAyush2710&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
 </p>
 
 **Connect with Me**
