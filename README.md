@@ -52,7 +52,7 @@ I'm particularly interested in collaborating on projects involving code generati
 </p> -->
 
 <p align="center">
-  <picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=CodeWithAyush2710&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture>
+  <picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=CodeWithAyush2710&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="CodeWithAyush2710" /></picture>
   <picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=CodeWithAyush2710&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture>
 </p>
 
