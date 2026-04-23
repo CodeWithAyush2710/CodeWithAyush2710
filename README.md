@@ -2,21 +2,23 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate Web Developer with a keen interest in Generative AI. I'm currently diving deep into Frontend Development and exploring the exciting world of Large Language Model (LLM) integration. My goal is to build innovative and impactful web solutions.
+I'm a passionate Developer, interested in building practical software and exploring how AI can be integrated into real applications.
 
 📍 Based in India.
 
-🚀 Actively learning and building.
 
-🌱 Always eager to explore new technologies and expand my skill set.
+💻 Mostly working with web technologies and backend systems.
 
-What I'm Learning & Exploring
-Frontend Technologies: HTML, CSS, JavaScript, React.
+🌱 Currently learning and improving step by step.
 
-Generative AI: LLM integration, prompt engineering, AI-powered applications.
+---
 
-Looking to Collaborate
-I'm particularly interested in collaborating on projects involving code generation responses with Gemini or other exciting GenAI applications. If you have an idea or a project where my skills can be valuable, feel free to reach out!
+## What I'm Working On  
+- Full-stack development using **React, Node.js, FastAPI**  
+- Experimenting with **LLMs and AI integrations**  
+- Building small projects to understand system design and real-world use cases  
+
+---
 
 ## 🛠️ Tech Stack and Tools:
 
