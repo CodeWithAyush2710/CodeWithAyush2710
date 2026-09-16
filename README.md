@@ -12,6 +12,7 @@ I enjoy solving **DSA problems**, designing reliable APIs and services, and expl
 
 - **Backend Systems** — REST APIs, authentication, databases, concurrency, and service design
 - **Full-Stack Applications** — React, Next.js, Node.js, Express, FastAPI
+- **Real-Time Applications** — WebSockets, live communication, and interactive systems
 - **AI-Powered Applications** — LLM integrations, RAG, agentic workflows, and developer tools
 - **Problem Solving** — Data Structures & Algorithms using C++
 
@@ -55,25 +56,25 @@ I enjoy solving **DSA problems**, designing reliable APIs and services, and expl
 
 ## 🔥 Featured Projects
 
+### 🎯 TalentIQ Master
+A **real-time 1-on-1 interview platform** built as a complete full-stack application, enabling live interaction and communication between interviewers and candidates using WebSockets.
+
+**React · Node.js · Express · MongoDB · WebSockets · Real-Time Systems**
+
 ### ⚡ Low-Latency Order Matching Engine
 C++ order matching engine implementing **price-time priority**, order management, cancellation, and performance-oriented processing.
 
-**C++ · Data Structures · Concurrency · Systems Programming**
+**Data Structures · Concurrency · Systems Programming**
 
 ### 📦 Resilient Large File Uploader
 Backend system designed for reliable large-file uploads with **chunking, resumability, concurrent uploads, retry handling, and failure recovery**.
 
 **Node.js · Express · MongoDB · React · Concurrency**
 
-### 🤖 Synaptics-AI
-AI-powered developer platform combining multiple developer productivity tools with LLM-based workflows.
+### 🧠 Research Hub AI
+AI-powered research assistant for analyzing and understanding research papers using **LLMs, retrieval, and agentic workflows**.
 
-**React · Node.js · Express · MongoDB · LLMs**
-
-### 🔍 Code Reviewer
-AI-assisted code review application that analyzes source code and provides feedback using LLMs.
-
-**React · Node.js · Gemini · Groq · AI**
+**Python · LangChain · LLMs · RAG · AI Agents**
 
 ---
 
