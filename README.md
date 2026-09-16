@@ -57,7 +57,7 @@ I enjoy solving **DSA problems**, designing reliable APIs and services, and expl
 ## 🔥 Featured Projects
 
 ### 🎯 TalentIQ Master
-A **real-time 1-on-1 interview platform** built as a complete full-stack application, enabling live interaction and communication between interviewers and candidates using WebSockets.
+A **real-time 1-on-1 interview platform** built as a complete full-stack application, enabling live interaction and communication between interviewers and candidates.
 
 **React · Node.js · Express · MongoDB · WebSockets · Real-Time Systems**
 
