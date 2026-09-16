@@ -1,69 +1,109 @@
-### ***Hi there! 👋 I'm Ayush Srivastava***
+# Hi, I'm Ayush Srivastava 👋
 
-## 🙋‍♂️ About Me
+### Software Developer | Backend & Full-Stack | C++ | JavaScript | Python
 
-I'm a passionate Developer, interested in building practical software and exploring how AI can be integrated into real applications.
+I'm a software developer focused on building **backend systems, full-stack applications, and AI-powered developer tools**.
 
-📍 Based in India.
-
-
-💻 Mostly working with web technologies and backend systems.
-
-🌱 Currently learning and improving step by step.
+I enjoy solving **DSA problems**, designing reliable APIs and services, and exploring how system design concepts translate into real-world software.
 
 ---
 
-## What I'm Working On  
-- Full-stack development using **React, Node.js, FastAPI**  
-- Experimenting with **LLMs and AI integrations**  
-- Building small projects to understand system design and real-world use cases  
+## 🚀 What I Build
+
+- **Backend Systems** — REST APIs, authentication, databases, concurrency, and service design
+- **Full-Stack Applications** — React, Next.js, Node.js, Express, FastAPI
+- **AI-Powered Applications** — LLM integrations, RAG, agentic workflows, and developer tools
+- **Problem Solving** — Data Structures & Algorithms using C++
 
 ---
 
-## 🛠️ Tech Stack and Tools:
+## 🛠️ Tech Stack
+
+### Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
----
 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
----
+### Backend & Databases
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Frontend
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAyush2710&theme=nightowl&hide_border=true" width="50%"/>
-  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### AI & Tools
 
-| 🔥 Streak | 📊 Stats |
-| --- | --- |
-|<img src="https://github-readme-streak-stats.herokuapp.com?user=CodeWithAyush2710&theme=nightowl&hide_border=true" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=CodeWithAyush2710&count_private=trueshow_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=true&rank_icon=github&show_icons=true" width="100%"> |
-  
-</p> -->
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🔥 Featured Projects
+
+### ⚡ Low-Latency Order Matching Engine
+C++ order matching engine implementing **price-time priority**, order management, cancellation, and performance-oriented processing.
+
+**C++ · Data Structures · Concurrency · Systems Programming**
+
+### 📦 Resilient Large File Uploader
+Backend system designed for reliable large-file uploads with **chunking, resumability, concurrent uploads, retry handling, and failure recovery**.
+
+**Node.js · Express · MongoDB · React · Concurrency**
+
+### 🤖 Synaptics-AI
+AI-powered developer platform combining multiple developer productivity tools with LLM-based workflows.
+
+**React · Node.js · Express · MongoDB · LLMs**
+
+### 🔍 Code Reviewer
+AI-assisted code review application that analyzes source code and provides feedback using LLMs.
+
+**React · Node.js · Gemini · Groq · AI**
+
+---
+
+## 💻 Problem Solving
+
+I regularly practice Data Structures & Algorithms, primarily using **C++**, with a focus on:
+
+`Arrays` · `Strings` · `Linked Lists` · `Trees` · `Graphs` · `Dynamic Programming` · `Greedy` · `Prefix/Suffix Techniques`
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=CodeWithAyush2710&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="CodeWithAyush2710" /></picture>
-  <picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=CodeWithAyush2710&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture>
+  <picture>
+    <img height="165px" src="https://beautiful-github-homepage.vercel.app/api?username=CodeWithAyush2710&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Ayush's GitHub Stats" />
+  </picture>
+  <picture>
+    <img height="165px" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=CodeWithAyush2710&hide_title=false&layout=compact&theme=gotham&count_private=true" alt="Ayush's Top Languages" />
+  </picture>
 </p>
 
-**Connect with Me**
+---
 
-Let's connect and build something amazing!
+## 🔗 Connect
 
-[<img align="left" target="_blank" alt="Profile | LinkedIn" width="22px" src="https://www.svgrepo.com/show/70809/linkedin.svg" onclick='_blank' /> ](https://www.linkedin.com/in/ayush-srivastava-114b58215/)
-[<img align="left" alt="Profile | Instagram" width="22px" src="https://www.svgrepo.com/show/111199/instagram.svg" />](https://www.instagram.com/i_am_ayush2710/)
-[<img align="left" alt="Profile | Gmail" width="22px" src="https://www.svgrepo.com/show/349378/gmail.svg" />](sriayush2710@gmail.com)
-[<img align="left" alt="Profile | X" width="22px" src="https://img.icons8.com/ios/50/twitterx--v1.png" />](https://x.com/iamayush2710)
-[<img align="left" alt="Profile | Leetcode" width="22px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />](https://leetcode.com/u/ayush_sri_india/)
+[LinkedIn](https://www.linkedin.com/in/ayush-srivastava-114b58215/) ·
+[LeetCode](https://leetcode.com/u/ayush_sri_india/) ·
+[GitHub](https://github.com/CodeWithAyush2710/)
+
+---
+
+⭐ Thanks for visiting my profile!
